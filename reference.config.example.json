@@ -1,0 +1,15 @@
+{
+  "root": "./data",
+  "mode": "LOCAL_ONLY",
+  "storage_quota": {
+    "total_gib": 30,
+    "live_gib": 28,
+    "backup_gib": 0,
+    "temporary_gib": 2,
+    "minimum_free_disk_gib": 20
+  },
+  "ocr_engine": "none",
+  "ocr_language": "ru",
+  "embedding_model": "none",
+  "allowed_profile": "default"
+}
